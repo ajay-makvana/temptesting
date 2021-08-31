@@ -28,7 +28,7 @@ Here START_DATE in YYYY-MM-DD format also same for END_DATE
 
 Eg. https://api-for-hackathon.herokuapp.com/ohlc-datewise/2020-03-03-to-2021-08-24-GOOGL for get all data from date 2020-03-03 to 2021-08-24 for GOOGL company
 
-Eg. https://api-for-hackathon.herokuapp.com/ohlc-datewise/2020-03-03-to-2021-08-01-MS for get all data from date 2020-03-03 to 2021-08-01 for MS company
+Eg. https://api-for-hackathon.herokuapp.com/ohlc-datewise/2021-07-05-to-2021-08-01-MS for get all data from date 2021-07-05 to 2021-08-01 for MS company
 
 **4. TO GET RECENT VALUES(MOST RECENT DATA (latest DATE data))**
 

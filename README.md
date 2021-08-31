@@ -2,17 +2,17 @@
 
 Here I had created API for reading data from .JSON file so that it can be Easy to Access
 
-API USE GUIDELINE
+**API USE GUIDELINE**
 
-API LINK (Heroku Deploy) : https://api-for-hackathon.herokuapp.com/
+**API LINK (Heroku Deploy)** : https://api-for-hackathon.herokuapp.com/
 
-Various Request types:
+**Various Request types**:
 
-1. TO GET ALL DATA (For Get All data)
+**1. TO GET ALL DATA (For Get All data)**
 
 Link : https://api-for-hackathon.herokuapp.com/all-ohlc/
 
-2. TO GET COMPANY SPECIFIC DATA
+**2. TO GET COMPANY SPECIFIC DATA**
 
 Link : https://api-for-hackathon.herokuapp.com/ohlc/KEY_OF_COMPANY
 
@@ -20,23 +20,20 @@ Eg. https://api-for-hackathon.herokuapp.com/ohlc/AAPL for AAPL company
 
 Eg. https://api-for-hackathon.herokuapp.com/ohlc/GOOGL for AAPL company
 
-3. TO GET COMPANY SPECIFIC DATA IN SPECIFIC DATE RANGE
+**3. TO GET COMPANY SPECIFIC DATA IN SPECIFIC DATE RANGE**
 
 Link : https://api-for-hackathon.herokuapp.com/ohlc-datewise/START_DATE-to-END_DATE-KEY_OF_COMPANY
 
 Here START_DATE in YYYY-MM-DD format also same for END_DATE
 
-Eg. https://api-for-hackathon.herokuapp.com/ohlc-datewise/2020-03-03-to-2021-08-24-GOOGL for get all date 
-
-from date 2020-03-03 to 2021-08-24 for GOOGL company
+Eg. https://api-for-hackathon.herokuapp.com/ohlc-datewise/2020-03-03-to-2021-08-24-GOOGL for get all data from date 2020-03-03 to 2021-08-24 for GOOGL company
 
 Eg. https://api-for-hackathon.herokuapp.com/ohlc-datewise/2020-03-03-to-2021-08-01-MS for get all data from date 2020-03-03 to 2021-08-01 for MS company
 
-TO GET RECENT VALUES(MOST RECENT DATA (latest DATE data))
+**4. TO GET RECENT VALUES(MOST RECENT DATA (latest DATE data))**
 
 Link : https://api-for-hackathon.herokuapp.com/ohlc-latest/ 
 
 company's Latest Value(Last DATE data which available (here : 2021-08-25)) 
 
-Thank You
-Any suggestions ? send me ...
+**For More Reffer :** https://docs.google.com/document/d/1VVw-lv5YQrM0cSeOoXl9H5aM32pbDXO0MLzoWOtIHKc/edit?usp=sharing

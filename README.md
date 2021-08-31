@@ -16,9 +16,9 @@ Link : https://api-for-hackathon.herokuapp.com/all-ohlc/
 
 Link : https://api-for-hackathon.herokuapp.com/ohlc/KEY_OF_COMPANY
 
-Eg. https://api-for-hackathon.herokuapp.com/ohlc/AAPL for AAPL company
+Eg. https://api-for-hackathon.herokuapp.com/ohlc/AAPL for company with key AAPL
 
-Eg. https://api-for-hackathon.herokuapp.com/ohlc/GOOGL for AAPL company
+Eg. https://api-for-hackathon.herokuapp.com/ohlc/GOOGL for company with key GOOGL
 
 **3. TO GET COMPANY SPECIFIC DATA IN SPECIFIC DATE RANGE**
 

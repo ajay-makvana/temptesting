@@ -1,6 +1,8 @@
 # SVNIT-Team9
 
-Here I had created API for reading data from .JSON file so that it can be Easy to Access
+#Backend (API creation)
+
+Here I had created API using Flask(Python) for reading data from .JSON file so that it can be Easy to Access and created different Endpoint as requirements
 
 **API USE GUIDELINE**
 
